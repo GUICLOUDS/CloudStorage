@@ -19,9 +19,9 @@
   },
   {
     "Title": "KJ 5 SEASONS",
-    "Genre": "Action",
+    "Genre": "Insta Move",
     "Description": "YES ITS KJ 5 SEASONS SO SIGMA",
-    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUI-Offical/FileTest/refs/heads/main/Grab%20R6.txt'))()",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/5%20seasons%20kj%20r15'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled744_20260711125747.png",
     "Creator": "NEO",
     "Date": "2026"
