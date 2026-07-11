@@ -25,5 +25,14 @@
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled744_20260711125747.png",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "Slap",
+    "Genre": "Insta Move",
+    "Description": "I like ya cut g",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Furious%20slap%20(2).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled744_20260711125747.png",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
