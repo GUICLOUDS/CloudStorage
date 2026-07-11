@@ -12,7 +12,7 @@
     "Title": "Grab NPC script",
     "Genre": "Action",
     "Description": "ONLY WORKS IN SOME GAMES | This is pretty much a kill npc script, use code Dismantle/Mega for more movesets",
-    "Loadstring": "print('Movie 2 executed')",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUI-Offical/FileTest/refs/heads/main/Grab%20R6.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711082139.png",
     "Creator": "NOLI",
     "Date": "2023"
