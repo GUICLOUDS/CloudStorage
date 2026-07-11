@@ -5,6 +5,7 @@
     "Description": "Its simple, just choose your target and attach to them, there are different modes to choose from.",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fe-ProjectR/Patchma/refs/heads/main/obfuscated_script-1783668496595.lua.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711081224.png",
+    "Tags": "r6, r15, universal, FE",
     "Creator": "NOLI",
     "Date": "2024"
   },
@@ -14,6 +15,7 @@
     "Description": "ONLY WORKS IN SOME GAMES | This is pretty much a kill npc script, use code Dismantle/Mega for more movesets",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUI-Offical/FileTest/refs/heads/main/Grab%20R6.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711082139.png",
+    "Tags": "r6, universal, FE",
     "Creator": "NOLI",
     "Date": "2023"
   },
@@ -23,6 +25,7 @@
     "Description": "YES ITS KJ 5 SEASONS SO SIGMA",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/5%20seasons%20kj%20r15'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled744_20260711125747.png",
+    "Tags": "r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
   },
@@ -32,6 +35,7 @@
     "Description": "I like ya cut g",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Furious%20slap%20(2).txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled745_20260711133306.png",
+    "Tags": "r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
   },
@@ -41,6 +45,7 @@
     "Description": "K TO THE J TO K TO THE KJ OKAY!",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Kj%20signature%20(skill%203)%20placed%20speed%20to%2090%20(1).txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled746_20260711150116.png",
+    "Tags": "r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
   }
