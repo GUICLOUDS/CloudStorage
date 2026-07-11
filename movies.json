@@ -48,5 +48,15 @@
     "Tags": "r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "KJ Ultimate",
+    "Genre": "Insta Move",
+    "Description": "Whoaaa kj utimate so kay jay :p",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Kj%20Ultimate%20animation%20(3).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled746_20260711150116.png",
+    "Tags": "r15, universal, FE",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
