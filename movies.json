@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "Attach Script",
+    "Genre": "Action",
+    "Description": "Its simple, just choose your target and attach to them, there are different modes to choose from.",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fe-ProjectR/Patchma/refs/heads/main/obfuscated_script-1783668496595.lua.txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711081224.png",
+    "Creator": "NOLI",
+    "Date": "2024"
+  },
+  {
+    "Title": "Grab NPC script",
+    "Genre": "Action",
+    "Description": "ONLY WORKS IN SOME GAMES | This is pretty much a kill npc script, use code Dismantle/Mega for more movesets",
+    "Loadstring": "print('Movie 2 executed')",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711082139.png",
+    "Creator": "NOLI",
+    "Date": "2023"
+  },
+  {
+    "Title": "Visual ESP",
+    "Genre": "Documentary",
+    "Description": "A thrilling experience you won't forget. See everything.",
+    "Loadstring": "print('Movie 3 executed')",
+    "Img": "https://via.placeholder.com/300x450?text=Movie+3",
+    "Creator": "Your Name",
+    "Date": "2024"
+  },
+  {
+    "Title": "Speed Hack",
+    "Genre": "Sci-Fi",
+    "Description": "Epic storytelling at its finest. Go fast.",
+    "Loadstring": "print('Movie 4 executed')",
+    "Img": "https://via.placeholder.com/300x450?text=Movie+4",
+    "Creator": "Your Name",
+    "Date": "2024"
+  }
+]
