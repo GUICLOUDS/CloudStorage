@@ -34,5 +34,14 @@
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled745_20260711133306.png",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "KJ signature (skill3)",
+    "Genre": "Insta Move",
+    "Description": "K TO THE J TO K TO THE KJ OKAY!",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Kj%20signature%20(skill%203)%20placed%20speed%20to%2090%20(1).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled745_20260711133306.png",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
