@@ -78,5 +78,15 @@
     "Tags": "r6, r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "Magic",
+    "Genre": "Action, Sci-Fi",
+    "Description": "able to move players in different directions (only on games with collision)",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/magic.lua'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled755_20260712225510.png",
+    "Tags": "r6, r15, universal, FE",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
