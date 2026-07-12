@@ -68,5 +68,15 @@
     "Tags": "r6, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "Upsidedown",
+    "Genre": "Action",
+    "Description": "ngl idk anymore it just makes you upsidedown thats all :sob:",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Upsidedown'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled748_20260711205924.png",
+    "Tags": "r6, r15, universal, FE",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
