@@ -81,7 +81,7 @@
   },
   {
     "Title": "Magic",
-    "Genre": "Action, Sci-Fi",
+    "Genre": "Action",
     "Description": "able to move players in different directions (only on games with collision)",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/magic.lua'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled755_20260712225510.png",
