@@ -88,5 +88,15 @@
     "Tags": "r6, r15, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
+  },
+  {
+    "Title": "PP",
+    "Genre": "Action",
+    "Description": "vro you wanna be a dih? you can be one RN!!!! NO ROOT NO CLICKBAIT 2026",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Ppupdate-1.txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled755_20260712225510.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2026"
   }
 ]
