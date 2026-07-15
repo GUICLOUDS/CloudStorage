@@ -98,15 +98,5 @@
     "Tags": "r6, universal, FE",
     "Creator": "NEO",
     "Date": "2026"
-  },
-  {
-    "Title": "Fighter Revamp",
-    "Genre": "Action",
-    "Description": "you know gale right? all those fe gale script sucks but THIS IS SOMETHING TO WITNESS!!! (NOTES: EFFECTS ARE ONLY CLIENTSIDED)",
-    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/kkk-3.lua%20(1).txt'))()",
-    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled768_20260715125617.png",
-    "Tags": "r6, universal, FE",
-    "Creator": "NEO•NOLI",
-    "Date": "2026"
   }
 ]
