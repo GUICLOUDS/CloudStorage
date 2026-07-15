@@ -1,7 +1,7 @@
 [
   {
     "Title": "Attach Script",
-    "Genre": "Action",
+    "Genre": "Comedy",
     "Description": "Its simple, just choose your target and attach to them, there are different modes to choose from.",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fe-ProjectR/Patchma/refs/heads/main/obfuscated_script-1783668496595.lua.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711081224.png",
@@ -11,7 +11,7 @@
   },
   {
     "Title": "Grab NPC script",
-    "Genre": "Action",
+    "Genre": "Horror",
     "Description": "ONLY WORKS IN SOME GAMES | This is pretty much a kill npc script, use code Dismantle/Mega for more movesets",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUI-Offical/FileTest/refs/heads/main/Grab%20R6.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260711082139.png",
@@ -91,7 +91,7 @@
   },
   {
     "Title": "PP",
-    "Genre": "Action",
+    "Genre": "Explicit",
     "Description": "vro you wanna be a dih? you can be one RN!!!! NO ROOT NO CLICKBAIT 2026",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Ppupdate-1.txt'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled756_20260713013232.png",
