@@ -1,0 +1,10 @@
+[
+    {
+        "PlaceId": 123456789,
+        "JobId": "8a57f150dfe58c44af5a08456a31fe84"
+    },
+    {
+        "PlaceId": 987654321,
+        "JobId": "another-job-id-here"
+    }
+]
