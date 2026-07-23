@@ -1,10 +1,8 @@
 [
     {
         "PlaceId": 71227808846786,
-        "JobId": "82da490b-cbaa-4ca9-a11a-f11bd78ee931"
+        "JobId": "671a59bd2ab17c478c3fff63df9371"
     },
     {
         "PlaceId": 987654321,
-        "JobId": "another-job-id-here"
-    }
-]
+        "JobId": "anoth"
