@@ -120,6 +120,16 @@
     "Date": "2027"
   },
   {
+    "Title": "Minecraft",
+    "Genre": "Action",
+    "Description": "Bro thinks he's steve lol.",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/minecraft.lua'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260820145206.png",
+    "Tags": "r15, universal, FE",
+    "Creator": "NEO+NOLI",
+    "Date": "2027"
+  },
+  {
     "Title": "Emotes R6",
     "Genre": "Action",
     "Description": "its finally here, 10 r6 emotes fully animated and visible to everyone!!! and yes you can turn off or on the music",
