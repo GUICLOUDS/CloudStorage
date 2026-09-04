@@ -130,13 +130,43 @@
     "Date": "2027"
   },
   {
+    "Title": "R6 VR",
+    "Genre": "Action",
+    "Description": "I love first person experience hehehehehe",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Vr_beta_PC_Mouse_Free_FirstPerson%20(1).lua'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled802_20260826211326.webp",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO+NOLI",
+    "Date": "2027"
+  },
+  {
+    "Title": "Pendulium Angel",
+    "Genre": "Action",
+    "Description": "Related to divine angel script from 2024",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Pendulium%20Angel%20(1).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled815_20260905004833.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
+    "Title": "Mesh Warrior",
+    "Genre": "Action",
+    "Description": "Crazy shi bro check it",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Full%20mesh%20warrior%20(concept%20idea).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled804.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
     "Title": "Emotes R6",
     "Genre": "Action",
     "Description": "its finally here, 10 r6 emotes fully animated and visible to everyone!!! and yes you can turn off or on the music",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Emoteupdate%20(1).lua'))()",
-    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260809200808.png",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled811_20260903230142.png",
     "Tags": "r6, universal, FE",
-    "Creator": "NEO+NOLI",
+    "Creator": "NEO",
     "Date": "2027"
   }
 ]
