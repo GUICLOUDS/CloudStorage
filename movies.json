@@ -160,13 +160,53 @@
     "Date": "2027"
   },
   {
+    "Title": "Decapitation",
+    "Genre": "Action",
+    "Description": "Oh noooo my headddd",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/decapitate%20head%20tool.txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled867_20261001235032.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
+    "Title": "Helicopter",
+    "Genre": "Action",
+    "Description": "WHoaaaaaa Im flyinggggggggg",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Helicopter%20%20(1).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled867_20261001232629.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
+    "Title": "Tortured",
+    "Genre": "Action",
+    "Description": "Oh noooo my headddd X2",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Wtf%20(1).txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled867_20261001232803.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
+    "Title": "ALMOST Invincible",
+    "Genre": "Action",
+    "Description": "Im a god probably",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/invincibility.txt'))()",
+    "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled867_20261002002742.png",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO",
+    "Date": "2027"
+  },
+  {
     "Title": "Emotes R6",
     "Genre": "Action",
     "Description": "its finally here, 10 r6 emotes fully animated and visible to everyone!!! and yes you can turn off or on the music",
     "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Emoteupdate%20(1).lua'))()",
     "Img": "https://raw.githubusercontent.com/Fe-ProjectR/GAME-IMAGES/refs/heads/main/Untitled228_20260809200808.png",
     "Tags": "r6, universal, FE",
-    "Creator": "NEO",
+    "Creator": "NEO+NOLI",
     "Date": "2027"
   }
 ]
