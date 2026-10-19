@@ -230,16 +230,39 @@
     "Date": "2027"
   },
   {
-    "Title": "FE Dubstep Gun",
+    "Title": "FE Brimstone",
     "Genre": "Hat reanim",
-    "Description": "FE Dubstep Gun. Supports optional effect hiding and music muting.",
-    "Loadstring": "--[[\n    FE Dubstep Gun\n    https://discord.gg/bjTxKxjJVc\n    Join 24-HOURS for more scripts (in the future)\n]]--\n\ntrulysettings = {\n    patchma = {},\n    script = {\n        AnimationSpeed = 1,\n        HideEffects = false,\n        MuteMusic = false\n    }\n}\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/DubstepGun.luau\"))()",
-    "Tags": "hat reanim, universal, FE",
+    "Description": "The last Forsaken...",
+    "Loadstring": "--[[\n\tFE Brimstone\n\tThe last Forsaken...\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts [Star Glitcher V2 up next]\n]]--\n\nlocal urls = {\n\t\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/Brimstone.luau\",\n\t\"https://cdn.jsdelivr.net/gh/BloxinStud10/24-Hours@main/heads/main/Obfuscations/Brimstone.luau\"\n}\nlocal a=(syn and syn.request)or request;local b=nil;for c,c in next,urls do if a then local a,c=pcall(a,{Method=\"GET\",Url=c})if a and c then b=c.Body;break end else local a,c=pcall(game.HttpGetAsync,game,c)if a and c then b=c;break end end end;if b then loadstring(b)()else warn(\"Http buggin\")end",
+    "Tags": "hat reanim, FE",
     "Creator": "24-HOURS",
-    "Date": "2026",
-    "Options": {
-      "HideEffects": true,
-      "MuteMusic": true
-    }
+    "Date": "2026"
+  },
+  {
+    "Title": "FE Dual Solaris V2 [Beta]",
+    "Genre": "Hat reanim",
+    "Description": "Beta release from 24-HOURS.",
+    "Loadstring": "--[[\n\tFE Dual Solaris V2 [Beta]\n\t24-HOURS released a script??? impossible...\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nlocal urls = {\n\t\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/DualSolarisV2.luau\",\n\t\"https://cdn.jsdelivr.net/gh/BloxinStud10/24-Hours@main/Obfuscations/DualSolarisV2.luau\"\n}\nlocal a=(syn and syn.request)or request;local b=nil;for c,c in next,urls do if a then local a,c=pcall(a,{Method=\"GET\",Url=c})if a and c then b=c.Body;break end else local a,c=pcall(game.HttpGetAsync,game,c)if a and c then b=c;break end end end;if b then loadstring(b)()else warn(\"Http buggin\")end",
+    "Tags": "hat reanim, FE",
+    "Creator": "24-HOURS",
+    "Date": "2026"
+  },
+  {
+    "Title": "FE Hacklord",
+    "Genre": "Hat reanim",
+    "Description": "The guy from Forsaken!!!",
+    "Loadstring": "--[[\n\tFE Hacklord (omg it's the guy from forsaken!!!)\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nlocal a=\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/Hacklord.luau\"if makefolder or writefile then if not isfolder(\"24_HOURS\")then makefolder(\"24_HOURS\")end;if not isfolder(\"24_HOURS/Loadstrings\")then makefolder(\"24_HOURS/Loadstrings\")end;writefile(\"24_HOURS/Loadstrings/Hacklord\",game:HttpGet(a))loadfile(\"24_HOURS/Loadstrings/Hacklord\")()else loadstring(game:HttpGet(a))()end",
+    "Tags": "hat reanim, FE",
+    "Creator": "24-HOURS",
+    "Date": "2026"
+  },
+  {
+    "Title": "FE Star Glitcher V1 (Discontinued Version)",
+    "Genre": "Hat reanim",
+    "Description": "Discontinued version. V2 will make its way, someday.",
+    "Loadstring": "--[[\n\tFE Star Glitcher V1 (Discontinued Version)\n\tV2 will make its way, someday.\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/StarGlitcherV1.luau\"))()",
+    "Tags": "hat reanim, FE",
+    "Creator": "24-HOURS",
+    "Date": "2026"
   }
 ]
