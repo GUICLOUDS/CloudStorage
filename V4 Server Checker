@@ -234,6 +234,7 @@
     "Genre": "Hat reanim",
     "Description": "Beta release from 24-HOURS.",
     "Loadstring": "--[[\n\tFE Dual Solaris V2 [Beta]\n\t24-HOURS released a script??? impossible...\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nlocal urls = {\n\t\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/DualSolarisV2.luau\",\n\t\"https://cdn.jsdelivr.net/gh/BloxinStud10/24-Hours@main/Obfuscations/DualSolarisV2.luau\"\n}\nlocal a=(syn and syn.request)or request;local b=nil;for c,c in next,urls do if a then local a,c=pcall(a,{Method=\"GET\",Url=c})if a and c then b=c.Body;break end else local a,c=pcall(game.HttpGetAsync,game,c)if a and c then b=c;break end end end;if b then loadstring(b)()else warn(\"Http buggin\")end",
+    "Img": "https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Neon%20Dual%20Swords_%20Grunge%20Action%20Poster.png",
     "Tags": "hat reanim, FE",
     "Creator": "24-HOURS",
     "Date": "2026"
@@ -243,6 +244,7 @@
     "Genre": "Hat reanim",
     "Description": "The guy from Forsaken!!!",
     "Loadstring": "--[[\n\tFE Hacklord (omg it's the guy from forsaken!!!)\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nlocal a=\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/Hacklord.luau\"if makefolder or writefile then if not isfolder(\"24_HOURS\")then makefolder(\"24_HOURS\")end;if not isfolder(\"24_HOURS/Loadstrings\")then makefolder(\"24_HOURS/Loadstrings\")end;writefile(\"24_HOURS/Loadstrings/Hacklord\",game:HttpGet(a))loadfile(\"24_HOURS/Loadstrings/Hacklord\")()else loadstring(game:HttpGet(a))()end",
+    "Img": "https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Neon%20HackLord%20Cyberpunk%20Poster.png",
     "Tags": "hat reanim, FE",
     "Creator": "24-HOURS",
     "Date": "2026"
@@ -252,6 +254,7 @@
     "Genre": "Hat reanim",
     "Description": "Discontinued version. V2 will make its way, someday.",
     "Loadstring": "--[[\n\tFE Star Glitcher V1 (Discontinued Version)\n\tV2 will make its way, someday.\n\t\n\thttps://discord.gg/bjTxKxjJVc\n\tJoin 24-HOURS for more scripts (in the future)\n]]--\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/BloxinStud10/24-Hours/refs/heads/main/Obfuscations/StarGlitcherV1.luau\"))()",
+    "Img": "https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Star%20Glitcher%20V1_%20Corrupted%20Arsenal.png",
     "Tags": "hat reanim, FE",
     "Creator": "24-HOURS",
     "Date": "2026"
