@@ -210,6 +210,16 @@
     "Date": "2027"
   },
   {
+    "Title": "R6 Krystal",
+    "Genre": "Action",
+    "Description": "YOOOO KRYSTAL DANCE",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Krystal%20Dance'))()",
+    "Img": "https://github.com/GUICLOUDS/Neo-s/blob/main/Untitled228_20261020054811.png?raw=true",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO+NOLI",
+    "Date": "2027"
+  },
+  {
     "Title": "Emotes R6",
     "Genre": "Action",
     "Description": "its finally here, 10 r6 emotes fully animated and visible to everyone!!! and yes you can turn off or on the music",
