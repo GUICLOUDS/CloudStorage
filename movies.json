@@ -200,6 +200,16 @@
     "Date": "2027"
   },
   {
+    "Title": "R6 Saitama",
+    "Genre": "Action",
+    "Description": "Holy opm",
+    "Loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/GUICLOUDS/Neo-s/refs/heads/main/Saitama_PC_Compatible_Fixed.txt'))()",
+    "Img": "https://github.com/GUICLOUDS/Neo-s/blob/main/Untitled816_20260906083817.png?raw=true",
+    "Tags": "r6, universal, FE",
+    "Creator": "NEO+NOLI",
+    "Date": "2027"
+  },
+  {
     "Title": "Emotes R6",
     "Genre": "Action",
     "Description": "its finally here, 10 r6 emotes fully animated and visible to everyone!!! and yes you can turn off or on the music",
